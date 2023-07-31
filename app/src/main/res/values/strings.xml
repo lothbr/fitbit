@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Mental Health</string>
+
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Akioyamen</string>
+    <string name="nav_header_subtitle">ehisehi46@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Logout</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <string name="steps">Steps to use this app: \n
+        1. Pair your band with the phone\n
+        2. Make sure Microsoft Health is installed\n
+        3. Give the application permission to access your heart rate
+        data by pressing the Heart Rate Consent button and then pressing
+        yes on the dialog that pops up.\n
+        4. Press the Start button\n
+        5. Data from the heart rate sensor should be displayed.</string>
+    <string name="start">Start</string>
+
+    <string name="consent">Heart Rate Consent</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="accelerometer">Accelerometer</string>
+
+
+</resources>
